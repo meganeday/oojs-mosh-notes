@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+img {
+    float: left;
+    height: 300px;
+    margin: 14px;
+}
