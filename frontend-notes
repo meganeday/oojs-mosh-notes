@@ -1,0 +1,96 @@
+/* What is the DOM? */
+/* DOM = Document Object Model; 
+it's a representation of the page that can be manipulated */
+
+/* What is Sass? */
+/* Sass (Sytactically Awesome Stylesheets) is a CSS preprocessor;
+helps make CSS DRY, faster, and easier to maintain--
+write code in SCSS and then it is translated into CSS using Sass
+(similar to JSX & Babel)*/
+
+/* What is JSX? */
+/* JSX is inline markup that looks very similar to HTML and gets
+transpiles into JavaScript using Babel */
+
+/* What is Babel? */
+/* A JavaScript transcompiler--converts jsx of ECMAScript into 
+Vanilla JS */
+
+/* Babel vs Webpack? */
+/* Babel is used to translate  */
+/* Webpack is a module bundler that bundles JS files for usage
+in the browser*/
+
+/* What is React? */
+/* React is a JavaScript library used to build user interfaces
+quickly with reusable UI components*/
+
+/* What is Redux? */
+/* Redux is an open-source library that manages and centralizes
+application state--helps you write apps that behave consistently
+across different servers and environments 
+benefits- fast, scalable, simple*/
+
+/* What is Flux? */
+/* Flux is a design pattern for managing unidirectional data flow through
+a React application */
+
+/* Object vs Class? */
+/* an object is an instance of a class;
+objects have the behaviors of their class;
+classes are the blueprints from which objects are created--
+classes specify how instances are created & how they behave */
+
+/* What is ECMAScript? */
+/* Scripting language developed by Ecma International that prescribes
+the standards for JavaScript */
+
+/* What does JSON stand for? */
+/*  JavaScript Object Notation -- 
+standard text-based format for representing structured data
+based on JS object syntax--
+used for transmitting data in applications*/
+
+/* What is jQuery */
+/* small, fast JS library--
+helps simplify and standardize interactions
+between JS and HTML elements */
+
+/* What is PHP? */
+/* PHP is a scripting language geared toward web development--
+used to develop dynamic and interactive websites;
+can be embedded into HTML
+benefits: easier to add functionality to web pages w/o needing to
+call external files for data;
+manages dynamic content, databases, session tracking, & can build
+entire e-commerce sites!!*/
+
+/* Undefined vs Null */
+/* undefined -  undefined means a variable has been declared
+but has not yet been assigned a value;
+null- null is an object that can be assigned to a variable
+as a representation of no value*/
+
+/* What is Bootstrap & when would you use it? */
+/* Bootstrap is a giant collection of handy, reusable bits of
+code written in HTML, CSS, and JavaScript;
+It's also a frontend development framework that enables
+developers and designers to quickly build fully
+responsive websites.*/
+
+/* Explain a callback function in js */
+/* a function that is passed into another function as an argument;
+A lot of the time, a "callback" is a function that is called when
+something happens. That something can be called an "event" in
+programmer-speak. */
+
+/* What is AJAX */
+/* stands for Asynchronous JS and XML--
+technique for creating fast & dynamic web pages by allowing web pages
+to updated asynchronously through a browser-server call-response cycle */
+
+/* How do you convert/send out to JSON format? */
+/* create a JS object,
+use JSON.stringify() to convert object into JSON string,
+send the url-encoded JSON string and part of the HTTP request*/
+
